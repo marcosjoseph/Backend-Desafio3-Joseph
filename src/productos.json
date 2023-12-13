@@ -1,0 +1,22 @@
+[
+{"nombre":"mesa",
+"descripcion":"mesa quebracho",
+"img":"img",
+"precio":100,
+"stock":2,
+"code":"101A"},
+
+{"nombre":"banco",
+"descripcion":"banco quebracho",
+"img":"img",
+"precio":101,
+"stock":5,
+"code":"101B"},
+
+{"nombre":"Espejo",
+"descripcion":"Espejo quebracho",
+"img":"img",
+"precio":102,
+"stock":1,
+"code":"101C"}
+]
